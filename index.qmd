@@ -6,7 +6,7 @@ format: html
 editor: visual
 ---
 
-```{r, echo=FALSE, warning=FALSE}
+```{r c_images, echo=FALSE, warning=FALSE}
 
 library('slickR')
 
