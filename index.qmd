@@ -310,6 +310,24 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
     width: 100vw;
     max-width: 100vw;
   }
+
+footer {
+  background-color: #f0f4f8; /* Matches the page background */
+  padding: 20px;
+  text-align: center;
+}
+
 </style>
 
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const path = window.location.pathname.split("/").pop();
+    document.querySelectorAll(".navbar a").forEach(link => {
+      if (link.getAttribute("href") === path) {
+        link.classList.add("active");
+      }
+    });
+  });
+</script>
 ```
