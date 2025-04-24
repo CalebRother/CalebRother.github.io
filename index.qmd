@@ -249,7 +249,7 @@ color: #e1e1e1;
 
 Hello! I’m Caleb Rother, a sophomore at the University of Nebraska at Kearney (UNK) majoring in Molecular Biology with a minor in Media Production.
 
-I am actively involved on campus through Fraternity and Sorority Life (FSL), the Honors Program, and my undergraduate research. I love making new friends throughout campus, and aim to have a diverse perspective of UNK. I aim to improve the campus, community, and culture of UNK through a variety of projects and initiatives.
+I am actively involved on campus through Fraternity and Sorority Life (FSL), the Honors Program, and my undergraduate research. I love making new friends throughout campus, and try to have a diverse perspective of UNK. I aim to improve the campus, community, and culture of UNK through a variety of projects and initiatives.
 
 <a href="Student.html" class="fancy-button">Read more about my campus projects</a>
 

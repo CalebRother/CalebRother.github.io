@@ -1,5 +1,5 @@
 ---
-title: "Campus Involvement and Improvement"
+title: "Campus Improvement"
 format: html
 editor: visual
 ---
@@ -19,6 +19,10 @@ I am working with UNK Grounds to coordinate a time to help finish the “I See Y
 ### Men’s and Copeland Exterior
 
 Men’s Hall and Copeland Hall are a core part of UNK’s identity. Both often shown to prospective students in tours, and Men’s is home to the UNK Honors Program. However, the exterior of the buildings have grown grimy and ugly due to neglect, and requires a good cleaning. I plan to work with Tanner Cooper and HAO to pressure wash the exterior of Men’s Hall, and later work on cleaning Copeland.
+
+### Continuing maintenance
+
+Part of being on campus is the responsibility to keep it beautiful. I fulfill this obligation through my continuing maintenance of various parts of campus. I pick up trash outside in the warmer months, and I vacuum, organize, and take care of both the basement and second floor lounge of Men's Hall, as it is my residency. While continual effort is not the most exciting, it ensures our spaces stay nice for everyone.
 
 ### Otto Olsen Development
 
@@ -93,11 +97,13 @@ I am currently proposing and acquiring funding for a development of the Northeas
 
 /* Active page link (manual or with JS) */
 .navbar a.active {
-  color: 	#d3d3d3 !important; /* Force override of any inherited link colors */
+  color:    #d3d3d3 !important; /* Force override of any inherited link colors */
   font-weight: bold;
 }
 </style>
 ```
+
+```{=html}
 <style>
   body {
     font-family: 'Roboto', sans-serif;
@@ -145,7 +151,9 @@ I am currently proposing and acquiring funding for a development of the Northeas
     max-width: 100vw;
   }
 </style>
+```
 
+```{=html}
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const path = window.location.pathname.split("/").pop();
@@ -156,4 +164,4 @@ I am currently proposing and acquiring funding for a development of the Northeas
     });
   });
 </script>
-
+```
