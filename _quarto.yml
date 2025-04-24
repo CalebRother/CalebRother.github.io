@@ -12,7 +12,7 @@ website:
       - href: Research.qmd
         text: Research
       - href: Student.qmd
-        text: Campus Involvement and Improvement
+        text: Campus Improvement
       - href: CV.qmd
         text: CV
 format:
