@@ -264,6 +264,18 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
 </footer>
 
 ```{=html}
+<style>
+.full-width-pdf {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  max-width: 100vw;
+}
+
+
 .navbar a {
   color: white; /* Default color for all navbar links */
   text-decoration: none;
@@ -287,4 +299,8 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
   color: 	#d3d3d3 !important; /* Force override of any inherited link colors */
   font-weight: bold;
 }
+
+
+
+</style>
 ```
