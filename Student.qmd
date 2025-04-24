@@ -145,3 +145,15 @@ I am currently proposing and acquiring funding for a development of the Northeas
     max-width: 100vw;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const path = window.location.pathname.split("/").pop();
+    document.querySelectorAll(".navbar a").forEach(link => {
+      if (link.getAttribute("href") === path) {
+        link.classList.add("active");
+      }
+    });
+  });
+</script>
+

@@ -311,4 +311,15 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
     max-width: 100vw;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const path = window.location.pathname.split("/").pop();
+    document.querySelectorAll(".navbar a").forEach(link => {
+      if (link.getAttribute("href") === path) {
+        link.classList.add("active");
+      }
+    });
+  });
+</script>
 ```
