@@ -322,10 +322,4 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
     });
   });
 </script>
-
-<div class="navbar">
-  <a href="index.html">Home</a>
-  <a href="Student.html">Campus Improvement</a>
-  <a href="Research.html">Research</a>
-</div>
 ```
