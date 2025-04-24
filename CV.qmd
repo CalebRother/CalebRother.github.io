@@ -18,7 +18,7 @@ editor: visual
 </style>
 ```
 
-<iframe src="pdfim/CV.pdf #toolbar=0&amp;navpanes=0" width="100%" height="900px" style="border: none;">
+<iframe src="docs/pdfim/CV.pdf #toolbar=0&amp;navpanes=0" width="100%" height="900px" style="border: none;">
 
 </iframe>
 
