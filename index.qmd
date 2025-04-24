@@ -262,3 +262,29 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
 <p>Created by Caleb Rother 2025 \| University of Nebraska at Kearney</p>
 
 </footer>
+
+```{=html}
+.navbar a {
+  color: white; /* Default color for all navbar links */
+  text-decoration: none;
+  font-size: 1.1em;
+  margin-right: 15px;
+}
+
+.navbar a:hover {
+  color: #e1e1e1;
+}
+
+/* Override visited and active link states */
+.navbar a:visited,
+.navbar a:active,
+.navbar a:focus {
+  color: white; /* Or your preferred color */
+}
+
+/* Active page link (manual or with JS) */
+.navbar a.active {
+  color: 	#d3d3d3 !important; /* Force override of any inherited link colors */
+  font-weight: bold;
+}
+```
