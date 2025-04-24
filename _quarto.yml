@@ -21,6 +21,6 @@ format:
     css: styles.css
 
 resources:
-  - pdfs/**
+  - pdfim/**
   - images/**
 
