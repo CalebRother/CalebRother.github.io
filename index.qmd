@@ -30,6 +30,7 @@ arrows = TRUE
 
 ```
 
+```{=html}
 <script>
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -76,7 +77,9 @@ slide.appendChild(caption);
 });
 
 </script>
+```
 
+```{=html}
 <style>
 
 body {
@@ -242,6 +245,7 @@ color: #e1e1e1;
 }
 
 </style>
+```
 
 Hello! I’m Caleb Rother, a sophomore at the University of Nebraska at Kearney (UNK) majoring in Molecular Biology with a minor in Media Production.
 
@@ -255,6 +259,6 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
 
 <footer>
 
-<p>Created by Caleb Rother 2025 | University of Nebraska at Kearney</p>
+<p>Created by Caleb Rother 2025 \| University of Nebraska at Kearney</p>
 
 </footer>
