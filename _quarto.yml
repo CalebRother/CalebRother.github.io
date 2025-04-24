@@ -21,6 +21,8 @@ format:
     css: styles.css
 
 resources:
-  - pdfim/**
   - images/**
-
+  - CV.pdf
+  - ShadePark.pdf
+  - AIMSPaper.pdf
+  - Goldwater2025.pdf
