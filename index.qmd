@@ -257,12 +257,6 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
 
 <a href="Research.html" class="fancy-button">Read more about my research</a>
 
-<footer>
-
-<p>Created by Caleb Rother 2025 \| University of Nebraska at Kearney</p>
-
-</footer>
-
 ```{=html}
 <style>
   body {
@@ -331,3 +325,9 @@ footer {
   });
 </script>
 ```
+
+<footer>
+
+<p>Created by Caleb Rother 2025 \| University of Nebraska at Kearney</p>
+
+</footer>
