@@ -273,6 +273,7 @@ I hope to leave UNK with a strong foundation in scientific concepts, especially 
     border-bottom: 2px solid #333;
   }
 
+
   .navbar a {
     color: white;
     text-decoration: none;
