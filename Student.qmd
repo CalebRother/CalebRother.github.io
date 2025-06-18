@@ -156,7 +156,8 @@ I am currently proposing and acquiring funding for a development of the Northeas
 ```{=html}
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const path = window.location.pathname.split("/").pop();
+    const pathParts = window.location.pathname.split("/");
+    const path = pathParts[pathParts.length - 1] || "index.html";
     document.querySelectorAll(".navbar a").forEach(link => {
       if (link.getAttribute("href") === path) {
         link.classList.add("active");
